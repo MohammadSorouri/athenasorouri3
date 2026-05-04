@@ -1,7 +1,7 @@
 {
-  "name": "vercel-xhttp-relay",
+  "name": "athenasorouri",
   "version": "1.0.0",
-  "description": "Edge-runtime XHTTP relay for Xray/V2Ray on Vercel",
+  "description": "test",
   "private": true,
   "license": "MIT"
 }
